@@ -1,8 +1,8 @@
 ```
-npm install
-npm run dev
+pn install
+pn run dev
 ```
 
 ```
-npm run deploy
+pn run deploy
 ```
